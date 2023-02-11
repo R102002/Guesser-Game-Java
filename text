@@ -1,0 +1,14 @@
+Guesser Game:
+3 phases
+this game has 1 object known as umpire which will decide who won the match
+guesser object->will guess the no and give to umpire
+3 players
+
+1.step identifying object
+guesser object
+umpire object
+players
+
+2.what obj has and what it does
+to store something guesser will have variable to store its no name guessNum=>variable & datatype
+guesser will guessNum sor guessNum()=>behaviour=>method
